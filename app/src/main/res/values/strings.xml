@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="hash">#</string>
+    <string name="search_contacts">Search contacts</string>
+    <string name="number_home">HOME</string>
+    <string name="number_other">OTHER</string>
+    <string name="number_work">WORK</string>
+    <string name="number_mobile">MOBILE</string>
+    <string name="progressbar_welcome">Welcome</string>
+    <string name="loading_contacts">Loading contacts..</string>
+    <string name="no_contacts_available">No contacts available</string>
+</resources>
